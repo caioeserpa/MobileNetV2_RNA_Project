@@ -16,6 +16,9 @@
 
 O modelo treinado possui performance de **100%**.
 
+* Modelo capaz de realizar classificação entre três classes (**Leão**, **Gato** e **Cachorro**)
+
+---
 ## Output do bloco de treinamento
 
 <details>
