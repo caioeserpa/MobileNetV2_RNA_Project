@@ -4030,11 +4030,11 @@ Nessa seção você deve colocar qualquer evidência do treinamento, como por ex
 
 Exemplo de adição de imagem:
 ### Acurácia
- <img src = "Graficos/acc.png">
+ <img src = "assets/acc.png">
 
 ### Loss
 
- <img src = "Graficos/loss.png">
+ <img src = "assets/loss.png">
 
 # Roboflow
 
