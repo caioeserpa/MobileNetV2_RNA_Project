@@ -4029,9 +4029,6 @@ Epoch 1000: saving model to training_1/cp.ckpt
 
 ### Evidências do treinamento
 
-Nessa seção você deve colocar qualquer evidência do treinamento, como por exemplo gráficos de perda, performance, matriz de confusão etc.
-
-Exemplo de adição de imagem:
 ### Acurácia
  <img src = "assets/acc.png">
 
