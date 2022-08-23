@@ -14,7 +14,7 @@
 [Clique aqui para rodar o modelo via browser (roboflow)](https://classify.roboflow.com/?model=classifier_animals&version=2&api_key=IDPIYW7fvVaFbVq3eTlB)
 # Performance
 
-O modelo treinado possui performance de **100%**.
+O modelo treinado possui performance de **84.75%**.
 
 * Modelo capaz de realizar classificação entre três classes (**Leão**, **Gato** e **Cachorro**)
 
